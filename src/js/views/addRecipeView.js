@@ -1,5 +1,5 @@
 import View from './View.js';
-import icons from 'url:../../img/icons.svg'; // Parcel 2
+import icons from 'url:../../img/icons.svg';
 
 // !there is use to add recipy in new fild..
 class AddRecipeView extends View {
